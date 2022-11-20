@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "393630735141",
+    "project_id": "tiktok-tutorial-ca118",
+    "storage_bucket": "tiktok-tutorial-ca118.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393630735141:android:ee96e8ce06edf8e75618cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393630735141-1gim33an1nom8es565jo0nkh5ehs2boo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzUcCQjRHAqBMYyD-gxbEjlnusEEqDrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393630735141-1gim33an1nom8es565jo0nkh5ehs2boo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393630735141:android:6915648ac161411c5618cc",
+        "android_client_info": {
+          "package_name": "com.example.tiktok_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393630735141-1gim33an1nom8es565jo0nkh5ehs2boo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPzUcCQjRHAqBMYyD-gxbEjlnusEEqDrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393630735141-1gim33an1nom8es565jo0nkh5ehs2boo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
